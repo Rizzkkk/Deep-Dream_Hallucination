@@ -1,6 +1,6 @@
 # DeepDream: Visualizing Neural Network Perception
 
-A deep learning project that uses gradient ascent on a pretrained **InceptionV3** model to visualize what different layers of a convolutional neural network respond to — from low-level textures to higher-level object-like hallucinations.
+A deep learning project that uses gradient ascent on a pretrained **InceptionV3** model to visualize what different layers of a convolutional neural network respond to  from low-level textures to higher-level object-like hallucinations.
 
 **Stack:** Python · TensorFlow · Keras · NumPy · Pillow · Matplotlib
 
